@@ -1,0 +1,12 @@
+C:\Users\nat\source\AT1.6 Calculator\Trigonometric\bin\Debug\Trigonometric.dll
+C:\Users\nat\source\AT1.6 Calculator\Trigonometric\bin\Debug\Trigonometric.pdb
+C:\Users\nat\source\AT1.6 Calculator\Trigonometric\obj\Debug\Trigonometric.csproj.CoreCompileInputs.cache
+C:\Users\nat\source\AT1.6 Calculator\Trigonometric\obj\Debug\Trigonometric.dll
+C:\Users\nat\source\AT1.6 Calculator\Trigonometric\obj\Debug\Trigonometric.pdb
+C:\Users\nat\source\AT1.6 Calculator\Trigonometric\obj\Debug\Trigonometric.csprojAssemblyReference.cache
+C:\Users\nat\source\AT1.7 Calculator\Trigonometric\bin\Debug\Trigonometric.dll
+C:\Users\nat\source\AT1.7 Calculator\Trigonometric\bin\Debug\Trigonometric.pdb
+C:\Users\nat\source\AT1.7 Calculator\Trigonometric\obj\Debug\Trigonometric.csprojAssemblyReference.cache
+C:\Users\nat\source\AT1.7 Calculator\Trigonometric\obj\Debug\Trigonometric.csproj.CoreCompileInputs.cache
+C:\Users\nat\source\AT1.7 Calculator\Trigonometric\obj\Debug\Trigonometric.dll
+C:\Users\nat\source\AT1.7 Calculator\Trigonometric\obj\Debug\Trigonometric.pdb

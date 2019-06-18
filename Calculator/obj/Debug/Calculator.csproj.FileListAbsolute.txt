@@ -1,0 +1,46 @@
+c:\users\student.cite\Documents\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\student.cite\Documents\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\student.cite\Documents\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\student.cite\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+c:\users\student.cite\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\student.cite\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+c:\users\student.cite\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+c:\users\student.cite\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\student.cite\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+c:\users\student.cite\Documents\Calculator\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\nat\source\AT1.6 Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\nat\source\AT1.6 Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\nat\source\AT1.6 Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\nat\source\AT1.6 Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\nat\source\AT1.6 Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nat\source\AT1.6 Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\nat\source\AT1.6 Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\nat\source\AT1.6 Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\nat\source\AT1.6 Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\nat\source\AT1.6 Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\nat\source\AT1.6 Calculator\Calculator\bin\Debug\Algebraic.dll
+C:\Users\nat\source\AT1.6 Calculator\Calculator\bin\Debug\Arithmetic.dll
+C:\Users\nat\source\AT1.6 Calculator\Calculator\bin\Debug\Trigonometric.dll
+C:\Users\nat\source\AT1.6 Calculator\Calculator\bin\Debug\Algebraic.pdb
+C:\Users\nat\source\AT1.6 Calculator\Calculator\bin\Debug\Arithmetic.pdb
+C:\Users\nat\source\AT1.6 Calculator\Calculator\bin\Debug\Arithmetic.dll.config
+C:\Users\nat\source\AT1.6 Calculator\Calculator\bin\Debug\Trigonometric.pdb
+C:\Users\nat\source\AT1.6 Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\nat\source\AT1.7 Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\nat\source\AT1.7 Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\nat\source\AT1.7 Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\nat\source\AT1.7 Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\nat\source\AT1.7 Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nat\source\AT1.7 Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\nat\source\AT1.7 Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\nat\source\AT1.7 Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\nat\source\AT1.7 Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\nat\source\AT1.7 Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\nat\source\AT1.7 Calculator\Calculator\bin\Debug\Algebraic.dll
+C:\Users\nat\source\AT1.7 Calculator\Calculator\bin\Debug\Arithmetic.dll
+C:\Users\nat\source\AT1.7 Calculator\Calculator\bin\Debug\Trigonometric.dll
+C:\Users\nat\source\AT1.7 Calculator\Calculator\bin\Debug\Algebraic.pdb
+C:\Users\nat\source\AT1.7 Calculator\Calculator\bin\Debug\Arithmetic.pdb
+C:\Users\nat\source\AT1.7 Calculator\Calculator\bin\Debug\Arithmetic.dll.config
+C:\Users\nat\source\AT1.7 Calculator\Calculator\bin\Debug\Trigonometric.pdb
+C:\Users\nat\source\AT1.7 Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete

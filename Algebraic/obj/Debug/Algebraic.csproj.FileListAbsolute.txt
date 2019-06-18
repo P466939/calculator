@@ -1,0 +1,12 @@
+C:\Users\nat\source\AT1.6 Calculator\Algebraic\bin\Debug\Algebraic.dll
+C:\Users\nat\source\AT1.6 Calculator\Algebraic\bin\Debug\Algebraic.pdb
+C:\Users\nat\source\AT1.6 Calculator\Algebraic\obj\Debug\Algebraic.csprojAssemblyReference.cache
+C:\Users\nat\source\AT1.6 Calculator\Algebraic\obj\Debug\Algebraic.csproj.CoreCompileInputs.cache
+C:\Users\nat\source\AT1.6 Calculator\Algebraic\obj\Debug\Algebraic.dll
+C:\Users\nat\source\AT1.6 Calculator\Algebraic\obj\Debug\Algebraic.pdb
+C:\Users\nat\source\AT1.7 Calculator\Algebraic\bin\Debug\Algebraic.dll
+C:\Users\nat\source\AT1.7 Calculator\Algebraic\bin\Debug\Algebraic.pdb
+C:\Users\nat\source\AT1.7 Calculator\Algebraic\obj\Debug\Algebraic.csprojAssemblyReference.cache
+C:\Users\nat\source\AT1.7 Calculator\Algebraic\obj\Debug\Algebraic.csproj.CoreCompileInputs.cache
+C:\Users\nat\source\AT1.7 Calculator\Algebraic\obj\Debug\Algebraic.dll
+C:\Users\nat\source\AT1.7 Calculator\Algebraic\obj\Debug\Algebraic.pdb

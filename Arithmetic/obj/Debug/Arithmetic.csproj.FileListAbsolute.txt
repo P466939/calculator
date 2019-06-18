@@ -1,0 +1,14 @@
+C:\Users\nat\source\AT1.6 Calculator\Arithmetic\bin\Debug\Arithmetic.dll.config
+C:\Users\nat\source\AT1.6 Calculator\Arithmetic\bin\Debug\Arithmetic.dll
+C:\Users\nat\source\AT1.6 Calculator\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\nat\source\AT1.6 Calculator\Arithmetic\obj\Debug\Arithmetic.csprojAssemblyReference.cache
+C:\Users\nat\source\AT1.6 Calculator\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\nat\source\AT1.6 Calculator\Arithmetic\obj\Debug\Arithmetic.dll
+C:\Users\nat\source\AT1.6 Calculator\Arithmetic\obj\Debug\Arithmetic.pdb
+C:\Users\nat\source\AT1.7 Calculator\Arithmetic\bin\Debug\Arithmetic.dll.config
+C:\Users\nat\source\AT1.7 Calculator\Arithmetic\bin\Debug\Arithmetic.dll
+C:\Users\nat\source\AT1.7 Calculator\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\nat\source\AT1.7 Calculator\Arithmetic\obj\Debug\Arithmetic.csprojAssemblyReference.cache
+C:\Users\nat\source\AT1.7 Calculator\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\nat\source\AT1.7 Calculator\Arithmetic\obj\Debug\Arithmetic.dll
+C:\Users\nat\source\AT1.7 Calculator\Arithmetic\obj\Debug\Arithmetic.pdb
